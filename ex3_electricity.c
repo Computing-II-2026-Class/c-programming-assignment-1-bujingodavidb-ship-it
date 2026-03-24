@@ -1,5 +1,5 @@
-/* Name: Your Full Name */
-/* Student Number: Your Registration Number */
+/* Name: Bujingo DavidKabanda*/
+/* Student Number: 25/U/BIE/01364/PE */
 
 #include <stdio.h>
 
